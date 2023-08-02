@@ -1,4 +1,4 @@
-# odin_recipies
+# odin_recipes
 First TOP Project
 
 A basic recipe website with links to a few recipes.
